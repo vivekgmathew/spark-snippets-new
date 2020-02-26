@@ -1,0 +1,8 @@
+{"country":"norway", "area":"europe", "asset":100}
+{"country":"sweden", "area":"europe", "asset":90}
+{"country":"denmark", "area":"europe", "asset":80}
+{"country":"australia", "area":"oceania", "asset":90}
+{"country":"in", "area":"asia", "asset":100}
+{"country":"we", "area":"asia", "asset":90}
+{"country":"be", "area":"africa", "asset":80}
+                                                                                                                                                                                                                                                                                                                           {"country":"rs", "area":"africa", "asset":90}
